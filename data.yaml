@@ -1,0 +1,17 @@
+path: /root/autodl-tmp/Rice-Disease-Detection/dataset
+train: train/images
+val: val/images
+test: test/images
+
+nc: 10
+names:
+  0: bacterial-blight
+  1: bacterial-leaf-streak
+  2: blast
+  3: brown-spot
+  4: dead-heart
+  5: downy-mildew
+  6: false-smut
+  7: normal
+  8: sheath-blight
+  9: tungro
